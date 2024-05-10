@@ -36,7 +36,9 @@ import {
   nthad,
   optogrow,
   upwork,
-  avalon
+  avalon,
+  BiometricLoginApp,
+  coming
 } from '../assets';
 
 export const navLinks = [
@@ -220,8 +222,8 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Coming soon...',
-    description: ``,
+    name: 'Biometric Login App',
+    description: `A Check-in/out tracker using biometric scanning`,
     tags: [
       {
         name: 'nextjs',
@@ -236,8 +238,8 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: avalon,
-    repo: '',
+    image: BiometricLoginApp,
+    repo: 'https://github.com/MarcShayne-npc/BiometricLoginApp',
   },
   {
     id: 'project-5',
@@ -258,7 +260,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: avalon,
+    image: coming,
     repo: '',
     
   },

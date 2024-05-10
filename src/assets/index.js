@@ -53,6 +53,8 @@ import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
 import avalon from './projects/avalon.png';
+import coming from './projects/coming.png';
+import BiometricLoginApp from './projects/BiometricLogin.png';
 import cccwebsite from './projects/cccwebsite.png';
 import nthad from './projects/nth_ad.png';
 import komikult from './projects/komikult.png';
@@ -63,6 +65,8 @@ import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
 export {
+  coming,
+  BiometricLoginApp,
   avalon,
   upwork,
   optogrow,
