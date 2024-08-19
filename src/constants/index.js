@@ -15,18 +15,6 @@ import {
   figma,
   docker,
   postgresql,
-  rubyrails,
-  graphql,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
   CSharp,
   bootstrap,
   java,
@@ -38,7 +26,10 @@ import {
   upwork,
   avalon,
   BiometricLoginApp,
-  coming
+  coming,
+  Anafara,
+  Umonics,
+  Knowles,
 } from '../assets';
 
 export const navLinks = [
@@ -148,6 +139,20 @@ const experiences = [
     icon: optogrow,
     iconBg: '#333333',
     date: 'Jan 2024 - April 2024',
+  },
+  {
+    title: 'I.T Intern',
+    company_name: 'Unified internship program inc And Anafara',
+    icon: Anafara,
+    iconBg: '#333333',
+    date: 'Jun 2024 - Aug 2024',
+  },
+  {
+    title: 'I.T Manager Intern',
+    company_name: 'Knowles And UMONICS',
+    icon: Knowles,
+    iconBg: '#333333',
+    date: 'Jun 2024 - Aug 2024',
   },
  
 ];

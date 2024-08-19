@@ -51,6 +51,9 @@ import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
+import Anafara from './company/Anafara.png';
+import Umonics from './company/Umonics.png';
+import Knowles from './company/Knowles.png';
 
 import avalon from './projects/avalon.png';
 import coming from './projects/coming.png';
@@ -65,6 +68,9 @@ import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
 export {
+  Knowles,
+  Umonics,
+  Anafara,
   coming,
   BiometricLoginApp,
   avalon,
