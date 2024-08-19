@@ -6,7 +6,6 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/shaq.png';
 import marc from './personal/marc.png';
 
 import backend from './icons/backend.png';
@@ -17,8 +16,6 @@ import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
 import downloadHover from './icons/downloadHover.png';
-import pineapple from './icons/pineapple.png';
-import pineappleHover from './icons/pineappleHover.png';
 import menu from './icons/menu.png';
 import resume from './icons/resume.png';
 import send from './icons/send.png';
@@ -29,28 +26,18 @@ import bootstrap from './tech/bootstrap.png';
 import java from './tech/Java.png';
 import python from './tech/python.png';
 import sql from './tech/sql.png';
-
 import css from './tech/css.png';
-import docker from './tech/docker.png';
-import figma from './tech/figma.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
-import redux from './tech/redux.png';
 import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
-import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
-import rubyrails from './tech/rubyrails.png';
 
 import optogrow from './company/optogrow.png';
 import upwork from './company/upwork.png';
-import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
 import Anafara from './company/Anafara.png';
 import Umonics from './company/Umonics.png';
 import Knowles from './company/Knowles.png';
@@ -60,12 +47,7 @@ import coming from './projects/coming.png';
 import BiometricLoginApp from './projects/BiometricLogin.png';
 import cccwebsite from './projects/cccwebsite.png';
 import nthad from './projects/nth_ad.png';
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
+
 
 export {
   Knowles,
@@ -89,7 +71,6 @@ export {
   worldmap,
   logo,
   logotext,
-  shaq,
   marc,
   backend,
   ux,
@@ -99,34 +80,17 @@ export {
   close,
   download,
   downloadHover,
-  pineapple,
-  pineappleHover,
   menu,
   resume,
   send,
   sendHover,
   css,
-  docker,
-  figma,
   git,
-  graphql,
   html,
   javascript,
   nodejs,
   postgresql,
-  rubyrails,
   reactjs,
-  redux,
   tailwind,
   typescript,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
 };

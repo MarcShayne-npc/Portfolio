@@ -8,12 +8,9 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   git,
-  figma,
-  docker,
   postgresql,
   CSharp,
   bootstrap,
@@ -28,7 +25,6 @@ import {
   BiometricLoginApp,
   coming,
   Anafara,
-  Umonics,
   Knowles,
 } from '../assets';
 
