@@ -34,7 +34,7 @@ const ExperienceCard = ({ experience }) => (
         <img
           src={experience.icon}
           alt={experience.company_name}
-          className="w-[60%] h-[60%] object-contain"
+          className="w-[70%] h-[70%] object-contain"
         />
       </div>
     }>
@@ -43,8 +43,8 @@ const ExperienceCard = ({ experience }) => (
         {experience.title}
       </h3>
       <p
-        className="text-taupe text-[22px] font-semibold font-overcameBold tracking-[1px]"
-        style={{ margin: 0 }}>
+        className="text-taupe text-[22px] font-semibold tracking-[1px]"
+        style={{ margin: 0, fontFamily: 'sans-serif' }}>
         {experience.company_name}
       </p>
     </div>

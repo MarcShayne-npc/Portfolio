@@ -41,6 +41,7 @@ import upwork from './company/upwork.png';
 import Anafara from './company/Anafara.png';
 import Umonics from './company/Umonics.png';
 import Knowles from './company/Knowles.png';
+import Xceler8 from './company/Xceler8.png';
 
 import avalon from './projects/avalon.png';
 import coming from './projects/coming.png';
@@ -50,6 +51,7 @@ import nthad from './projects/nth_ad.png';
 
 
 export {
+  Xceler8,
   Knowles,
   Umonics,
   Anafara,

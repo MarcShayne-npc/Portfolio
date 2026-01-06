@@ -26,6 +26,7 @@ import {
   coming,
   Anafara,
   Knowles,
+  Xceler8,
 } from '../assets';
 
 export const navLinks = [
@@ -149,6 +150,13 @@ const experiences = [
     icon: Knowles,
     iconBg: '#333333',
     date: 'Jun 2024 - Aug 2024',
+  },
+  {
+    title: 'SAP B1 Developer',
+    company_name: 'Xceler8 Technologies Inc.',
+    icon: Xceler8,
+    iconBg: '#333333',
+    date: 'Oct 2024 - Present',
   },
  
 ];
