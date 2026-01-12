@@ -3573,7 +3573,7 @@ No matching component was found for:
               w-[125px] h-[46px] rounded-[10px] bg-jetLight 
               sm:mt-[22px] mt-[16px] hover:bg-battleGray 
               hover:text-eerieBlack transition duration-[0.2s] 
-              ease-in-out`,onClick:()=>window.open("https://drive.google.com/file/d/1Hutixgb2Ao2ayc3FJrVmtHVJCYA1x2zF/view?usp=sharing"),onMouseOver:()=>{document.querySelector(".download-btn").setAttribute("src",wC)},onMouseOut:()=>{document.querySelector(".download-btn").setAttribute("src",bp)},children:["MY RESUME",re.jsx("img",{src:bp,alt:"download",className:`download-btn sm:w-[26px] sm:h-[26px] 
+              ease-in-out`,onClick:()=>window.open("https://drive.google.com/file/d/1TDUBJt9RidP69FujyL6DtNCekLkocNeX/view?usp=sharing"),onMouseOver:()=>{document.querySelector(".download-btn").setAttribute("src",wC)},onMouseOut:()=>{document.querySelector(".download-btn").setAttribute("src",bp)},children:["MY RESUME",re.jsx("img",{src:bp,alt:"download",className:`download-btn sm:w-[26px] sm:h-[26px] 
                 w-[23px] h-[23px] object-contain`})]}),re.jsxs("button",{className:`live-demo flex justify-between 
               sm:text-[18px] text-[14px] text-timberWolf 
               font-bold font-beckman items-center py-5 pl-3 pr-3 
